@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cirriculum Vitae
+title: Curriculum Vitae
 ---
 
-## Cirriculum Vitae
+## Curriculum Vitae
 
 *WIP*
