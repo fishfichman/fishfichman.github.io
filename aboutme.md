@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Rachel
+subtitle: studying fish and wildlife in the San Francisco Estuary
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, World. My name is Rachel Fichman (they/them/theirs) and I am a first year M.S. student at UC Davis in the Graduate Group in Ecology. I'm not sure what I want to do with this site yet, but I figured I'd mess around with it a bit.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Research
 
-What else do you need?
+*WIP* (work in progress)
 
-### My story
+I am a Graduate Student Researcher for the **Otolith, Geochemistry and Fish Ecology Laboratory** under Dr. Levi S. Lewis. Visit [our website](http://www.hobbslab.com/) to check out all the work we do!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am also a member of the **Freshwater Ecology Laboratory** under my faculty advisor, Dr. Robert Lusardi. Check out our new website  [here!](https://sites.google.com/view/lusardi-lab/research?authuser=0) 
+
+### My Goals
+
+*WIP*

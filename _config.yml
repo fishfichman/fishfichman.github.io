@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Rachel Fichman (they/them/theirs)
+title: Rachel Fichman
 
 # Your name to show in the footer
 author: Rachel Fichman
@@ -40,7 +40,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "rafichman@ucdavis.edu"
-  facebook: deanattali
+  # facebook: deanattali
+  ORCID: 0000-0002-0184-3961
   github: fishfichman
   twitter: fishfichman
 #  reddit: yourname
@@ -58,7 +59,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0002-0184-3961
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -76,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ogfishlab.com"
+#url-pretty: "fishfichman.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -108,7 +108,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/17174710_11_400px-wild-primrose-AdobeStock_92026299.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
