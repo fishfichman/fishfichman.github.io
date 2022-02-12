@@ -14,12 +14,9 @@ author: Rachel A. Fichman
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Main Menu: 
-    - About Me: "aboutme"
-    - CV: "cv"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me: "aboutme"
+  Publications: "cv"
+  Contact:
   Find Me On Twitter: "https://twitter.com/FishFichman"
 
 # --- Logo --- #
@@ -81,16 +78,16 @@ share-links-active:
 #url-pretty: "fishfichman.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 20
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "delta smelt,uc davis, rachel fichman, fishfichman"
 
 # --- Colours / background image --- #
 
@@ -229,4 +226,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
